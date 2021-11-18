@@ -6,5 +6,5 @@ Player | Games Played | Points
 Wayne Gretzky | 1487 | **1963**
 Ron Francis | 1731 | **1249**
 ### My markdown pages are in branches
-[to main page](https://github.com/Matt-Wood-23/markdownexample/blob/markdown2/markdown2.md)<br>
-[to goal page](https://github.com/Matt-Wood-23/markdownexample/tree/main)<br>
+[to main page](https://github.com/Matt-Wood-23/markdownexample/tree/main)<br>
+[to goal page](https://github.com/Matt-Wood-23/markdownexample/blob/markdown2/README.md)<br>
