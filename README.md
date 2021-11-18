@@ -6,5 +6,5 @@ Player | Games Played | Points
 Wayne Gretzky | 1487 | **2857**
 Jaromir Jagr | 1733 | **1921**
 ### my markdown pages are in branches
-[to goal page](https://github.com/Matt-Wood-23/markdownexample/blob/markdown2/markdown2.md)<br>
-[to assist page](https://github.com/Matt-Wood-23/markdownexample/tree/main)<br>
+[to goal page](https://github.com/Matt-Wood-23/markdownexample/blob/markdown2)<br>
+[to assist page](https://github.com/Matt-Wood-23/markdownexample/tree/markdown3)<br>
