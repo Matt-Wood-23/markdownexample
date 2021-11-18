@@ -1,5 +1,5 @@
 [back to main page](https://github.com/Matt-Wood-23/markdownexample/tree/main)<br>
-[to assists](https://github.com/Matt-Wood-23/markdownexample/markdown3/README.md)
+[to assists](https://github.com/Matt-Wood-23/markdownexample/blob/markdown3/README.md)
 
 # Dominance in Goals
 Gretzky still holds the nearly untouchable record of goals scored at **894**, with _far less_ games played compared to almost everyone close to him.
