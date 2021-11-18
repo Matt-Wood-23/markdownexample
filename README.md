@@ -9,5 +9,5 @@ Mark Messier | 1756 | **1887**
 Gordie Howe | 1767 | **1850**
 Ron Francis | 1731 | **1798**
 ### my markdown pages are in branches
-[to goal page](https://github.com/Matt-Wood-23/markdownexample/blob/markdown2)<br>
+[to goal page](https://github.com/Matt-Wood-23/markdownexample/blob/markdown2/README.md)<br>
 [to assist page](https://github.com/Matt-Wood-23/markdownexample/tree/markdown3)<br>
